@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         { 
             role: "เลขานุการ", name: "ภทรพรรณ สุขโชติ", nickname: "เอิร์ธ", campus: "วพบ.สระบุรี",
-            image: "images/นางสาวภทรพรรณ สุขโชติ1.png" // 📍 ใส่ลิงก์รูปสมาชิกคนที่ 19 ที่นี่ 📍
+            image: "images/นางสาวภทรพรรณ สุขโชติ.png" // 📍 ใส่ลิงก์รูปสมาชิกคนที่ 19 ที่นี่ 📍
         },
         { 
             role: "ผู้ช่วยเลขานุการ", name: "ธนวันต์ พุ่มพงษ์", nickname: "มิ้นท์ชี่", campus: "วพบ.ชัยนาท",
